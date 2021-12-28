@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+pavlolevchukknm201.wixsite.com	TRUE	/website	FALSE	1999999999	svSession	74b5013152922dfd144473904bef947b3af4125c140fcb1d1f35a720fdd3a6c03381f1b5a69fe17aba0ce574ccc8ccd31e60994d53964e647acf431e4f798bcdcb86da5ec4465f644ad22268505a64dde56a1d92f1afa2330e0c2273651a67ff3322de244c111c4d84d35fc16cc052d7e9bda7b494f8a0c6df00b38823120d2d24ce6f620e746dc19c63304a81f245ec
+pavlolevchukknm201.wixsite.com	TRUE	/website	FALSE	1999999999	TS01f3e6b6	0141ccf485339d2441144df62c423048136b326aa3f5bb057e38408334b709b0899dd6406d211547c2dd5429c2453c93f9713f4821
+pavlolevchukknm201.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1640687251|ak1BL402ZKMa
+pavlolevchukknm201.wixsite.com	TRUE	/	FALSE	1999999999	fedops.logger.defaultOverrides	%7B%22paramsOverridesForApp%22%3A%7B%22stores-abandoned-carts%22%3A%7B%22is_rollout%22%3Atrue%7D%2C%22wix-code-site-branches%22%3A%7B%22is_rollout%22%3Atrue%7D%7D%7D
+pavlolevchukknm201.wixsite.com	TRUE	/	FALSE	1999999999	hs	-1491367811
+pavlolevchukknm201.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=42
+.wixsite.com	TRUE	/	FALSE	1999999999	TS016e3841	0141ccf485a80161533e30513523b69b5506fe0ed11bc2622ddf3a39906c3a58cda10520ca28c7160e1678c67087c751623f791e65
+pavlolevchukknm201.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	none
+
